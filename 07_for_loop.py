@@ -16,3 +16,5 @@ for i in range(0, 10):
 
 for i in range(1, 20, 3):
     print(i) # start printing from 1 to 20 but gap bitween 3 because of we declare 3 on steps part
+
+
